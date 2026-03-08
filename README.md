@@ -17,13 +17,15 @@ I am a disciplined and detail-oriented physicist in the making, currently focusi
 
 | Orbital Dynamics (RK4) | Ising Model & Phase Transitions | Kawasaki Dynamics |
 | :---: | :---: | :---: |
-| ![RK4](https://github.com/ItsQuark/ItsQuark/blob/main/rk.gif?raw=true) | ![Ising](https://github.com/ItsQuark/ItsQuark/blob/main/ising.gif?raw=true) | ![Kawasaki](https://github.com/ItsQuark/ItsQuark/blob/main/kawasaki.gif?raw=true) |
+| [![RK4](https://github.com/ItsQuark/ItsQuark/blob/main/rk.gif?raw=true)](https://github.com/ItsQuark/computational-physics/tree/main/01_Orbital_Dynamics_RK4) | [![Ising](https://github.com/ItsQuark/ItsQuark/blob/main/ising.gif?raw=true)](https://github.com/ItsQuark/computational-physics/tree/main/02_Ising_Model_Metropolis) | [![Kawasaki](https://github.com/ItsQuark/ItsQuark/blob/main/kawasaki.gif?raw=true)](https://github.com/ItsQuark/computational-physics/blob/main/03_Kawasaki_Dynamics/Informe.pdf) |
 | *Gravitational 3-body problem* | *Metropolis Algorithm* | *Spin-exchange dynamics* |
 
 | Quantum Harmonic Oscillator | Wave Packet Propagation |
 | :---: | :---: |
-| ![Q_Osc](https://github.com/ItsQuark/ItsQuark/blob/main/quantum_osc.gif?raw=true) | ![Schrodinger](https://github.com/ItsQuark/ItsQuark/blob/main/schrodinger.gif?raw=true) |
+| [![Q_Osc](https://github.com/ItsQuark/ItsQuark/blob/main/quantum_osc.gif?raw=true)](https://github.com/ItsQuark/computational-physics/blob/main/04_Quantum_Oscillator/Informe.pdf) | [![Schrodinger](https://github.com/ItsQuark/ItsQuark/blob/main/schrodinger.gif?raw=true)](https://github.com/ItsQuark/computational-physics/tree/main/05_Schrodinger_Wave_Packet) |
 | *Quantum vs. Classical Probability Density* | *Free particle Schrödinger Eq.* |
+
+**Note:** Click on any GIF to explore the source code and more results inside my ``computational-physics`` repository. The **Kawasaki** and **Schrödinger** folders also include comprehensive 15-page technical reports.
 
 ---
 
